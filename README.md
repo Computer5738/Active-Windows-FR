@@ -1,2 +1,3 @@
 # Active-Windows-FR
-run in Administrator
+run in command prompt
+code in # activewindows.bat
